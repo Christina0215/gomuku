@@ -1,0 +1,12 @@
+{
+  "name": "gomuku-engine",
+  "version": "0.1.0",
+  "files": [
+    "gomuku_engine_bg.wasm",
+    "gomuku_engine.js",
+    "gomuku_engine.d.ts"
+  ],
+  "module": "gomuku_engine.js",
+  "types": "gomuku_engine.d.ts",
+  "sideEffects": false
+}
